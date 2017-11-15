@@ -3,9 +3,6 @@ Business-management
 
 Business management course notes
 
-25.9.17
-=======
-
 Structure des entreprises
 -------------------------
 
@@ -142,12 +139,6 @@ Comment gérer 2 ou 3 mille personnes sur le même site ?
    -  En réalité les ouvriers trainent et pensent à leurs intérêts
       personnels
 
-02.10.17
-========
-
-Structure des entreprises, suite
---------------------------------
-
 5. Démocratique
 
    -  Élimine les échelons hiérarchiques
@@ -218,9 +209,6 @@ Méthodes de travail
       iv.  Contacts
 
    -  GPE -> Gestion prévisionnelle de l’emploi
-
-23.10.17
-========
 
 Recrutement
 -----------
@@ -313,10 +301,8 @@ Recrutement
 
    -  REMPLACE LA LOI ! N’EST PAS UN AJOUT !
 
-30.10.17
-========
 
-1. Vacances
+5. Vacances
 
    -  4 semaines minimum
 
@@ -324,10 +310,10 @@ Recrutement
 
    -  L’employé propose, l’employeur dispose
 
-2. Horaires
+6. Horaires
 
    -  Contractuellement
-   
+
       i.   Bureaux/Vente : max 45h/semaine
 
       ii.  Autres : max 50h
@@ -345,7 +331,7 @@ Recrutement
 
       iv.  Payées ssi accord des deux parties : +25%
 
-3. Congés
+7. Congés
 
    -  Temps de repos usuel pendant 1 semaine (le week-end)
 
@@ -355,7 +341,7 @@ Recrutement
 
    -  En général c’est 2 jours de congés
 
-4. Maladie
+8. Maladie
 
    -  Pas de minimum de jours légal avant de devoir donner un certificat
       médical.
@@ -372,7 +358,7 @@ Recrutement
 
       iii. 3 ans -> 5 semaines
 
-5. Quitter l’entreprise
+9. Quitter l’entreprise
 
    -  Faute grave (employé ou employeur)
 
@@ -393,63 +379,60 @@ Recrutement
 
       iv.  + de 10 ans -> 3 mois, fin de mois
 
-6. Chômage
+10. Chômage
 
-   -  Dernier travail ou études doit avoir été fait en Suisse
+    -  Dernier travail ou études doit avoir été fait en Suisse
 
-   -  Disponible immédiatement
+    -  Disponible immédiatement
 
-   -  Rechercher un travail
+    -  Rechercher un travail
 
-   -  Résider en Suisse
+    -  Résider en Suisse
 
-   _--------------------------
 
--  Début chômage : délai cadre de deux ans. On regarde ce qui s’est
-   passé pendant les 2 ans préalables
+    -  Début chômage : délai cadre de deux ans. On regarde ce qui s’est
+       passé pendant les 2 ans préalables
 
-   i.   Au moins 18 mois de travail -> 18 mois de chômage
+       i.   Au moins 18 mois de travail -> 18 mois de chômage
 
-   ii.  Au moins 12 mois de travail -> 12 mois de chômage
+       ii.  Au moins 12 mois de travail -> 12 mois de chômage
 
-   iii. Moins de 12 mois de travail -> Que dalle
+       iii. Moins de 12 mois de travail -> Que dalle
 
--  70% de la moyenne de vos derniers salaires
+    -  70% de la moyenne de vos derniers salaires
 
--  80% si
+    -  80% si
 
-   i.  Enfants desquels on doit s’occuper
+       i.  Enfants desquels on doit s’occuper
 
-   ii. « Pauvre »
+       ii. « Pauvre »
 
--  Pas de cotisation à l’AVS et moins d’impôts -> au final avec des
-   gosses peu de perte salariale
+    -  Pas de cotisation à l’AVS et moins d’impôts -> au final avec des
+       gosses peu de perte salariale
 
--  Après ces deux ans -> sociaux
+    -  Après ces deux ans -> sociaux
 
-7. Délai de carence
+11. Délai de carence
 
-   -  5 à 20 jours ouvrés
+    -  5 à 20 jours ouvrés
 
-   -  Dépend de notre salaire -> Plus le salaire était bon, plus le
-      délai est long
+    -  Dépend de notre salaire -> Plus le salaire était bon, plus le
+       délai est long
 
-   -  Étudiants -> 6 mois
+    -  Étudiants -> 6 mois
 
-   -  Mais pendant ces 6 mois accès à des cours gratuits
+    -  Mais pendant ces 6 mois accès à des cours gratuits
 
-   -  Démission
+    -  Démission
 
-      i. 20 à 60 jours supplémentaires
+       i. 20 à 60 jours supplémentaires
 
-   -  Droit à 1 semaine de vacance par trimestre (Pas de recherche
-      d’emplois et droit de partir à l’étranger)
+    -  Droit à 1 semaine de vacance par trimestre (Pas de recherche
+       d’emplois et droit de partir à l’étranger)
 
-   -  Si le chômage propose un emploi, on doit l’accepter sauf si le
-      salaire est plus bas que celui touché au chômage
+    -  Si le chômage propose un emploi, on doit l’accepter sauf si le
+       salaire est plus bas que celui touché au chômage
 
-06.11.2017
-==========
 
 Prélèvement salariaux
 ---------------------
@@ -588,9 +571,6 @@ Gestion prévisionnelle de l’emploi
    -  1\ :sup:`er` départ ~3 à 6 mois
 
    -  Exode
-
-13.11.2017
-==========
 
 Promotion
 ---------
