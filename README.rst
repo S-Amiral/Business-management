@@ -72,7 +72,7 @@ Comment gérer 2 ou 3 mille personnes sur le même site ?
    -  Ou peu sensible dans une sphère culturelle : boissons, nourriture
       … (Coca pas le même partout, publicités différentes, manières de
       vendre différentes en fonction des revenus, les codes couleurs ne
-      sont pas les mêmes) -> pas les mêmes références
+      sont pas les mêmes) ➡️ pas les mêmes références
 
 
 
@@ -153,7 +153,7 @@ Comment gérer 2 ou 3 mille personnes sur le même site ?
 
       i.  Absence d’encadrants
 
-      ii. Engagement d’une équipe -> les gens font tout pour réussir car
+      ii. Engagement d’une équipe ➡️ les gens font tout pour réussir car
           ils se sont engagés envers leur collègues/confrères
 
    -  Très peu de démissions
@@ -208,7 +208,7 @@ Méthodes de travail
 
       iv.  Contacts
 
-   -  GPE -> Gestion prévisionnelle de l’emploi
+   -  GPE ➡️ Gestion prévisionnelle de l’emploi
 
 Recrutement
 -----------
@@ -351,12 +351,12 @@ Recrutement
 
    -  Par habitude : échelle bernoise
 
-      i.   1 an dans l’entreprise -> 3 semaines de maladie payées par
+      i.   1 an dans l’entreprise ➡️ 3 semaines de maladie payées par
            année
 
-      ii.  2 ans -> 4 semaines
+      ii.  2 ans ➡️ 4 semaines
 
-      iii. 3 ans -> 5 semaines
+      iii. 3 ans ➡️ 5 semaines
 
 9. Quitter l’entreprise
 
@@ -370,14 +370,14 @@ Recrutement
 
    -  CDI
 
-      i.   Temps d’essai (1-3 mois) -> délai de 7 jours
+      i.   Temps d’essai (1-3 mois) ➡️ délai de 7 jours
 
-      ii.  – d’1 an -> 1 mois, fin de mois : fin du mois en cours plus
+      ii.  – d’1 an ➡️ 1 mois, fin de mois : fin du mois en cours plus
            mois suivant
 
-      iii. – de 10 ans -> 2 mois, fin de mois
+      iii. – de 10 ans ➡️ 2 mois, fin de mois
 
-      iv.  + de 10 ans -> 3 mois, fin de mois
+      iv.  + de 10 ans ➡️ 3 mois, fin de mois
 
 10. Chômage
 
@@ -393,11 +393,11 @@ Recrutement
     -  Début chômage : délai cadre de deux ans. On regarde ce qui s’est
        passé pendant les 2 ans préalables
 
-       i.   Au moins 18 mois de travail -> 18 mois de chômage
+       i.   Au moins 18 mois de travail ➡️ 18 mois de chômage
 
-       ii.  Au moins 12 mois de travail -> 12 mois de chômage
+       ii.  Au moins 12 mois de travail ➡️ 12 mois de chômage
 
-       iii. Moins de 12 mois de travail -> Que dalle
+       iii. Moins de 12 mois de travail ➡️ Que dalle
 
     -  70% de la moyenne de vos derniers salaires
 
@@ -407,19 +407,19 @@ Recrutement
 
        ii. « Pauvre »
 
-    -  Pas de cotisation à l’AVS et moins d’impôts -> au final avec des
+    -  Pas de cotisation à l’AVS et moins d’impôts ➡️ au final avec des
        gosses peu de perte salariale
 
-    -  Après ces deux ans -> sociaux
+    -  Après ces deux ans ➡️ sociaux
 
 11. Délai de carence
 
     -  5 à 20 jours ouvrés
 
-    -  Dépend de notre salaire -> Plus le salaire était bon, plus le
+    -  Dépend de notre salaire ➡️ Plus le salaire était bon, plus le
        délai est long
 
-    -  Étudiants -> 6 mois
+    -  Étudiants ➡️ 6 mois
 
     -  Mais pendant ces 6 mois accès à des cours gratuits
 
@@ -471,7 +471,7 @@ Prélèvement salariaux
 
    -  Paiements
 
-      i. 1135 -> 2525 CHF / mois
+      i. 1135 ➡️ 2525 CHF / mois
 
 4. AI
 
@@ -498,7 +498,7 @@ Prélèvement salariaux
 
    -  Loi sur la prévoyance professionnelle
 
-   -  2\ :sup:`e` pilier
+   -  2\ :sup:`ème` pilier
 
    -  Capitalistique
 
@@ -507,13 +507,13 @@ Prélèvement salariaux
 
    -  Taux de prélèvement dépend de l’âge
 
-      i.  + vieux + le taux est élevé
+      i. \+ vieux + le taux est élevé
 
       ii. 25 ans : 7%, 55 ans 18%
 
    -  Pas prélevé sur ~ les 2000 premiers CHF du salaire mensuel
 
-   -  Si la bourse s’effondre -> C’est la merde !
+   -  Si la bourse s’effondre ➡️ C’est la merde !
 
 7. AC
 
@@ -618,7 +618,7 @@ Promotion
 
    -  Ni positif ni négatif :
 
-      i. Personne inconnue de l’entreprise -> la personne ne connait pas
+      i. Personne inconnue de l’entreprise ➡️ la personne ne connait pas
          l’entreprise non plus !
 
 Loi recrutement
@@ -673,9 +673,100 @@ libre circulation
 
 2. Sans formation ou formation faible
 
-   -  Mécanisation -> déplacement de l’emploi et donc du chômage au
+   -  Mécanisation ➡️ déplacement de l’emploi et donc du chômage au
       niveau planétaire
 
    -  Nombre d’emploi sans formation en baisse
 
    -  Baisse des salaires
+
+Direction
+---------
+1. Analyse
+2. Décision
+   - Basée sur des chiffres
+
+3. 3 niveaux
+
+   - Direction générale (top management)
+
+     ➡️ Décision brute
+
+   - Responsable de site
+
+     ➡️ Choix plus fin sur son site
+
+   - Cadre intermédiaire
+
+     ➡️ Choisir qui à virer ou garder
+
+     ➡️ Poste où il y a le plus de maladies professionnelles (entre le marteau et l'enclume)
+
+4. Direction ≠ Propriétaire
+
+   - Un max de bénéfice, stable
+
+     ➡️ Direction et propriétaires contents
+
+   - Bénéfices en dent de scie mais plus hauts
+
+     ➡️ Propriétaires contents mais direction un peu moins car des gens se sont fait virés à chaque minimum
+
+   - ☹️ Risque
+
+     - Recherche et développement
+
+       ➡️ Amélioration de produits existants
+
+       ➡️ Il faut une nouvelle version
+
+     - Nouveautés?
+     - Budget fixe
+
+     - Nouveauté
+
+       - Prix?
+
+       - Délai?
+
+Production
+----------
+- Savoirs pas identiques R&D
+
++----------------------------------------+----------------------------------------+
+| Humains                                | Robots                                 |
++========================================+========================================+
+| Gratuit d'en avoir 1 de plus           | Coût d'achat élevé                     |
++----------------------------------------+----------------------------------------+
+| Versatile                              | Infatigable                            |
++----------------------------------------+----------------------------------------+
+|                                        | Précision                              |
++----------------------------------------+----------------------------------------+
+| Coûts                                                                           |
++----------------------------------------+----------------------------------------+
+|                                        | Pas de grève                           |
++----------------------------------------+----------------------------------------+
+|                                        | Pas d'augmentation de la productivité  |
+|                                        | même en cas de besoin!                 |
++----------------------------------------+----------------------------------------+
+
+Structures juridiques
+---------------------
+
++----------------------------------------+----------------------------------------+
+| Personnes                              | Capitaux                               |
++========================================+========================================+
+| Pas de différence entre nous et        | - Propriétaires                        |
+| l'entreprise                           | - Entreprise                           |
+|                                        |                                        |
+|                                        | Complètement séparés                   |
++----------------------------------------+----------------------------------------+
+| Moins de paperasse                     | Protection en cas de faillite!         |
++----------------------------------------+----------------------------------------+
+| Moins d'impôts (La moitié)             | ☹️ Double niveau de taxation           |
++----------------------------------------+----------------------------------------+
+| Nom                                                                             |
++----------------------------------------+----------------------------------------+
+| Celui du propriétaire, 1 seul par      | Le nom doit être libre dans le secteur |
+| commune                                | d'activité (homonymes interdits)       |
++----------------------------------------+----------------------------------------+
